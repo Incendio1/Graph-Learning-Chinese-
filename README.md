@@ -155,25 +155,3 @@
 
 * DeepWalk: online learning of social representations (**KDD**) [[paper](https://arxiv.org/pdf/1403.6652.pdf%C3%AF%C2%BC%E2%80%BA)][[code](https://github.com/phanein/deepwalk)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104060366)]
 
-
-
-## Cite Us
-
-如果您感觉有所帮助，请引用我们的文章作为鼓励~
-
-```bibtex
-@article{TGC_ML,
-  title={Deep Temporal Graph Clustering},
-  author={Liu, Meng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
-  journal={arXiv preprint arXiv:2305.10738},
-  year={2023}
-}
-
-@inproceedings{liumeng2021inductive,
-  title={Inductive representation learning in temporal networks via mining neighborhood and community influences},
-  author={Liu, Meng and Liu, Yong},
-  booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages={2202--2206},
-  year={2021}
-}
-```
