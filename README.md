@@ -2,25 +2,17 @@
 在此整理了一些个人的文献阅读笔记，主要是图学习领域的，希望大家多多指正。
 # Graph Learning Notes (In Chinese)
 
-在此整理了一些个人的文献阅读笔记，主要是图学习领域的，希望大家多多指正。
-
-
 ## Survey
 
-* Graph self-supervised learning: A survey (**TKDE 2022**) [[paper](https://arxiv.org/pdf/2103.00111.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120686123?spm=1001.2014.3001.5502)]
+* Graph self-supervised learning: A survey (**TKDE 2022**) [[paper](https://arxiv.org/pdf/2103.00111.pdf)]
 
-* 面向社会计算的网络表示学习 (**清华博士论文 2018**) [[paper](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/phd_thesis.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/121908132?spm=1001.2014.3001.5501)]
-
-* A Survey on Network Embedding (**AAAI 2017**) [[paper](http://shichuan.org/hin/topic/Embedding/2017.%20A%20Survey%20on%20Network%20Embedding.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104563890)]
-
-* 网络表示学习专题 (**CCF 2017**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/103815322)]
+* A Survey on Network Embedding (**AAAI 2017**) [[paper](http://shichuan.org/hin/topic/Embedding/2017.%20A%20Survey%20on%20Network%20Embedding.pdf)]
 
 ## Paper
 
 ### 2023
 
-* Heterogeneous Graph Learning for Acoustic Event Classification (**ICASSP**) [[paper](https://arxiv.org/pdf/2303.02665)][[code](https://github.com/AmirSh15/Cross_modality_graph)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132825026?spm=1001.2014.3001.5501)]
-
+* Heterogeneous Graph Learning for Acoustic Event Classification (**ICASSP**) [[paper](https://arxiv.org/pdf/2303.02665)][[code](https://github.com/AmirSh15/Cross_modality_graph)]
 ### 2022
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
