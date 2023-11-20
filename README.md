@@ -8,11 +8,11 @@
 
 * A Survey on Network Embedding (**AAAI 2017**) [[paper](http://shichuan.org/hin/topic/Embedding/2017.%20A%20Survey%20on%20Network%20Embedding.pdf)]
 
-## Paper
+## Homo&Heter Paper
 
 ### 2023
 
-* Heterogeneous Graph Learning for Acoustic Event Classification (**ICASSP**) [[paper](https://arxiv.org/pdf/2303.02665)][[code](https://github.com/AmirSh15/Cross_modality_graph)]
+* HomoGCL: Rethinking Homophily in Graph Contrastive Learning (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599380)][[code](https://github.com/wenzhilics/HomoGCL)]
 ### 2022
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
