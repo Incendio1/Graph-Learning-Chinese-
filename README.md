@@ -16,11 +16,36 @@
 
 ### 2023
 * HomoGCL: Rethinking Homophily in Graph Contrastive Learning (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599380)][[code](https://github.com/wenzhilics/HomoGCL)]
-* Spatial Heterophily Aware Graph Neural Networks (**KDD**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)]
-* Attribute and Structure Preserving Graph Contrastive Learning (**AAAI**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)][code](https://github.com/JialuChenChina/ASP)]
-* Generalized heterophily graph data augmentation for node classification (Neural Networks)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023005142?via%3Dihub)]
+  
+* Spatial Heterophily Aware Graph Neural Networks (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)]
+  
+* Attribute and Structure Preserving Graph Contrastive Learning (**AAAI**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)][code](https://github.com/JialuChenChina/ASP)]
+  
+* Generalized heterophily graph data augmentation for node classification (Neural Networks) [[paper](https://www.sciencedirect.com/science/article/pii/S0893608023005142?via%3Dihub)]
   
 ### 2022
+
+* Powerful Graph Convolutional Networks with Adaptive Propagation Mechanism for Homophily and Heterophily (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20340)][code](https://github.com/hedongxiao-tju/HOG-GCN)]
+
+* Finding Global Homophily in Graph Neural Networks When Meeting Heterophily (**ICML**) [[paper](https://proceedings.mlr.press/v162/li22ad/li22ad.pdf)][code](https://github.com/RecklessRonan/GloGNN)]
+
+* Is Homophily a Necessity for Graph Neural Networks? (**ICLR**) [[paper]([https://proceedings.mlr.press/v162/li22ad/li22ad.pdf](https://openreview.net/pdf?id=ucASPPD9GKN))]
+
+* Automated Self-Supervised Learning for Graphs (**ICLR**) [[paper](https://openreview.net/pdf?id=rFbR4Fv-D6-))][code](https://github.com/ChandlerBang/AutoSSL)]
+
+* Revisiting Heterophily For Graph Neural Networks (**NeurIPS**) [[paper](https://papers.nips.cc/paper_files/paper/2022/file/092359ce5cf60a80e882378944bf1be4-Paper-Conference.pdf))][code](https://github.com/SitaoLuan/ACM-GNN)]
+
+### 2021
+
+* Adaptive Universal Generalized PageRank Graph Neural Network (**ICLR**) [[paper](https://openreview.net/pdf?id=n6jl7fLxrP))][code](https://github.com/jianhao2016/GPRGNN)]
+
+* Node Similarity Preserving Graph Convolutional Networks (**WSDM**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441735))][code](https://github.com/ChandlerBang/SimP-GCN)]
+
+### 2020
+
+* Towards Deeper Graph Neural Networks (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403076))][code](https://github.com/divelab/DeeperGNN)]
+
+
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
 
