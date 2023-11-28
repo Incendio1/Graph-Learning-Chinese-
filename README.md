@@ -1,5 +1,5 @@
 # Graph-Learning-Chinese-
-在此整理了一些个人感兴趣的文献阅读，主要是与heterophilic图学习领域相关的，希望大家多多指正。
+在此整理了一些个人感兴趣的文献阅读，主要是与heterophilic & Temporal Graph学习领域相关的，希望大家多多指正。
 
 ## Survey
 
