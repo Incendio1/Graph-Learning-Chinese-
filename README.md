@@ -45,6 +45,7 @@
 
 * Towards Deeper Graph Neural Networks (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403076))][code](https://github.com/divelab/DeeperGNN)]
 
+* Geom-GCN: Geometric Graph Convolutional Networks (*ICLR*)
 
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
