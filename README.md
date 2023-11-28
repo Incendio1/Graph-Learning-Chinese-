@@ -9,9 +9,15 @@
 
 ## Homo&Heter Paper
 
-### 2023
+### 2024
+* Revisiting the Role of Heterophily in Graph Representation Learning: An Edge Classification Perspective (**TKDD**) [[paper](https://cz5waila03cyo0tux1owpyofgoryroob.itic-sci.com/7D/33/6E/7D336E762A64EB1DD79357233509A3B1.pdf)]
 
+### 2023
 * HomoGCL: Rethinking Homophily in Graph Contrastive Learning (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599380)][[code](https://github.com/wenzhilics/HomoGCL)]
+* Spatial Heterophily Aware Graph Neural Networks (**KDD**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)]
+* Attribute and Structure Preserving Graph Contrastive Learning (**AAAI**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)][[code](https://github.com/THUDM/GraphMAE)][code](https://github.com/JialuChenChina/ASP)]
+* Generalized heterophily graph data augmentation for node classification (Neural Networks)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023005142?via%3Dihub)]
+  
 ### 2022
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
