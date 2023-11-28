@@ -3,6 +3,8 @@
 
 ## Survey
 
+* Graph Neural Networks for Graphs with Heterophily: A Survey (**Arxiv**) [[paper](https://arxiv.org/pdf/2202.07082.pdf)]
+
 * Graph self-supervised learning: A survey (**TKDE 2022**) [[paper](https://arxiv.org/pdf/2103.00111.pdf)]
 
 * A Survey on Network Embedding (**AAAI 2017**) [[paper](http://shichuan.org/hin/topic/Embedding/2017.%20A%20Survey%20on%20Network%20Embedding.pdf)]
@@ -15,7 +17,7 @@
 ### 2023
 * HomoGCL: Rethinking Homophily in Graph Contrastive Learning (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599380)][[code](https://github.com/wenzhilics/HomoGCL)]
 * Spatial Heterophily Aware Graph Neural Networks (**KDD**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)]
-* Attribute and Structure Preserving Graph Contrastive Learning (**AAAI**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)][[code](https://github.com/THUDM/GraphMAE)][code](https://github.com/JialuChenChina/ASP)]
+* Attribute and Structure Preserving Graph Contrastive Learning (**AAAI**)[[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599510)][code](https://github.com/JialuChenChina/ASP)]
 * Generalized heterophily graph data augmentation for node classification (Neural Networks)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023005142?via%3Dihub)]
   
 ### 2022
